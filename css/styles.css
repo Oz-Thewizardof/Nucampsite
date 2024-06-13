@@ -31,9 +31,7 @@ footer {
     min-height: 200px;
 }
 
-.navbar {
-    background-color: #901CAD;
-}
+
 
 .navbar-toggler {
     margin-left: auto;
@@ -50,3 +48,4 @@ footer {
 .carousel {
     border: solid #5637DD;
 }
+
